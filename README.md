@@ -16,15 +16,15 @@ Industrial Automation Technologist<img width="16" src="https://uploads-ssl.webfl
 
 ### More about me
 
-- 🔭 Currently loooking for new horizons;
+- 🔭 Always learning and loooking for new horizons;
 
-- 💬 Ask me about anything, I would like to help or lern something new;
+- 💬 Always willing to help;
 
 - 👾 I like to learn programming languages, already know something, but keep on a growing road! 
 <img width="24" src="https://www.flaticon.com/svg/static/icons/svg/2244/2244682.svg" alt="knows" />Who kwons everything?
   
   
-### We can reach each other:
+### You can reach me by the following:
 
 <a href="https://www.linkedin.com/in/fllucas/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" /></code>
