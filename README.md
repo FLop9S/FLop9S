@@ -73,7 +73,7 @@ Industrial Automation Technologist<img width="16" src="https://uploads-ssl.webfl
 **IDE's**
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino"/></code>
-<code><img height="32" src="https://banner2.cleanpng.com/20180403/fpq/kisspng-computer-icons-microsoft-visual-studio-visual-stud-ico-5ac33141c70179.1100311515227415698151.jpg" alt="Visual Studio"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" alt="Visual Studio"/></code>
 <code><img height="32" src="https://cdn.sparkfun.com/assets/5/3/4/3/1/52b1e48a757b7f28448b4567.png" alt="Fritzing"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus"/></code>
 <code><img height="32" src="https://www.baixesoft.com/wp-content/uploads/2012/04/FluidSIM-banner-baixesoft.jpg" alt="FLuidSim"/></code>
