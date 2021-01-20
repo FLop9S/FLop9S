@@ -10,7 +10,7 @@
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />  
   
   
-Industrial Automation Technologist<img width="16" src="https://uploads-ssl.webflow.com/5d138ef82775d300025fd9c8/5e07d46d0d37a19102266fec_002-automation.svg" alt="automation" />   and future Big Data Student at Fatec.
+Industrial Automation Technologist<img width="16" src="https://uploads-ssl.webflow.com/5d138ef82775d300025fd9c8/5e07d46d0d37a19102266fec_002-automation.svg" alt="automation" /> 
  
 <br/>
 
